@@ -1,4 +1,5 @@
-Repository Init Content
-=======================
+Customer Evalaulation BPM suite example
+=========================================
 
-Your project description here.
+1. Just clone this repository into Business Central using 'Authoring' --> 'Repositories' --> clone
+2. Test cases are included in customerDev project.
